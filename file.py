@@ -1,2 +1,2 @@
-print("Pierwsza linijka")
-print("Druga linijka")
+print("LINIA 1 Z GITA")
+print("linia 2 z gita")
